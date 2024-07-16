@@ -1,0 +1,15 @@
+jsonpointer==2.4
+jsonschema==4.17.3
+langchain==0.0.149
+json5
+python-dotenv
+langchain
+streamlit
+pandas
+requests==2.31.0
+langchain_google_genai
+google-generativeai==0.5.4
+langchain-community==0.0.38
+langchain-core==0.1.52
+langchain-google-genai==1.0.4
+requests==2.31.0
